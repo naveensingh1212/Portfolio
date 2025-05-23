@@ -1,5 +1,6 @@
 # dependencies
-/node_modules
+/node_modules  # This ignores the root node_modules
+node_modules/  # This ignores any node_modules in subdirectories (like the one you found in src/)
 /.pnp
 .pnp.js
 
