@@ -80,14 +80,7 @@ const About = () => {
 
                 {/* Right Column: Stats */}
                 <div className="order-3 grid w-full grid-rows-3 pt-5 sm:w-1/2 md:pt-0 lg:order-none lg:w-1/4 px-4 py-8">
-                    <div className="space-y-3 text-center sm:text-right">
-                        <h2 className="text-xl font-bold text-purple-400">
-                            Years of experiences
-                        </h2>
-                        <div className="text-6xl font-bold text-white">
-                            {aboutData.yearsOfExperience}
-                        </div>
-                    </div>
+                   
                     <div className="space-y-3 text-center sm:text-right">
                         <h2 className="text-xl font-bold text-purple-400">
                             Known Technology
