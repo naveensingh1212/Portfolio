@@ -298,7 +298,7 @@ export function Navbar() {
               <div className="w-px h-6 bg-white/10 mx-2" />
 
               {/* Resume Button */}
-              <a href="https://drive.google.com/file/d/1_i2B_y7hY-Iu7vJidsz9dVVNfw3X4jHt/view?usp=drive_link" target="_blank">
+              <a href="https://drive.google.com/file/d/1HfNcWnp_H3Wp480s9_njhhd7WxlCBoN8/view?usp=sharing" target="_blank">
                 <Button className="bg-primary hover:bg-primary/90 text-black transition-all relative group overflow-hidden">
                   <div className="absolute inset-0 bg-gradient-to-r from-primary via-yellow-400 to-primary opacity-0 group-hover:opacity-100 animate-gradient-xy transition-opacity" />
                   <FileText className="w-4 h-4 mr-2 relative z-10" />

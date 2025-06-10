@@ -7,7 +7,7 @@ const About = () => {
     const aboutData = {
         description: "Motivated Computer Science student with a passion for innovative technologies, seeking to contribute to impactful projects in a forward-thinking organization. I thrive on challenges and am constantly exploring new tech to expand my skills.",
         imageCaption: "A passionate developer always learning and building.",
-        yearsOfExperience: "2+", // Based on your education timeline 2022-2026
+       
         knownTechnologyCount: "14", // As per your provided structure
         projectsCompleted: "3+", // Based on your resume projects
     };
